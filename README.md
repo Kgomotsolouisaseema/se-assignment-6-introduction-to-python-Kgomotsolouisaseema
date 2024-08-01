@@ -173,7 +173,7 @@ Explanation:
 **ANSWER 6**
 Functions are reusable blocks of code that perform a specific task. They help in organizing code, avoiding repetition, and improving readability.
 
-**EXAMPLE**
+**EXAMPLE*
 def add_numbers(a, b):
     return a + b
 
